@@ -6,4 +6,6 @@ while(i <= j){
     i++;
 }
 
-for(y = i; y)
+for(i; i <= x; i++){
+    console.log('Angkot No.' + i + ' sedang rusak.');
+}
